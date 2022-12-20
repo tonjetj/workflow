@@ -1,0 +1,10 @@
+body {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2rem;
+}
+div {
+    padding: 10px 20px;
+    background-color: pink;
+    border-radius: 20px;
+}
