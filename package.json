@@ -1,8 +1,9 @@
 {
   "name": "workflow",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "workflow practice",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
